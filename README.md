@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonadamcox
 - 👀 I’m interested in statistics, data science, data analytics, business intelligence, and blues/jazz guitar
-- 🌱 I’m currently learning SQL, R, Tableau, and Python 
+- 🌱 I’m currently improving my SQL, R, Tableau, and Python skills
 - 💞️ I’m looking to collaborate on data analysis projects 
 - 📫 How to reach me: jasonadamcox@gmail.com or <https://www.linkedin.com/in/jasonadamcox/>
 
